@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/techstar/static/css/main.69046ca4.css",
+    "main.js": "/techstar/static/js/main.7499d117.js",
+    "static/media/batman.png": "/techstar/static/media/batman.b9d82b4140e444309748.png",
+    "index.html": "/techstar/index.html",
+    "main.69046ca4.css.map": "/techstar/static/css/main.69046ca4.css.map",
+    "main.7499d117.js.map": "/techstar/static/js/main.7499d117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69046ca4.css",
+    "static/js/main.7499d117.js"
+  ]
+}
